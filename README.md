@@ -1,5 +1,5 @@
 # Brain-tumor-detection
-Dataset--<h5>brain tumor mri dataset</h5>
+<h3>Dataset--brain tumor mri dataset</h3>
 <u> number of images:</u>
 class 0- 1621 
 class 1- 1645 
